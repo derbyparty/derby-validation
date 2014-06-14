@@ -1,3 +1,5 @@
+# Deprecated, please use [racer-schema](https://github.com/derbyparty/racer-schema)
+
 # Derby-Validation
 
 - Schema validation module for Derby and Racer
